@@ -4,6 +4,6 @@
 - 👩‍💻 Incoming SWE @ Lorentz Solution
 - 🌱 I’m currently learning web development and UI/UX design
 - 💬 Ask me about taylor swift and ttpd :3
-- 📫 How to reach me: dont 🙅‍♀️
+- 📫 How to reach me: christyyu@ucsb.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I am a modern idiot
+- ⚡ Fun fact: I love art and have an insta of all my drawings. [Check it out!](https://www.instagram.com/qwistaycat)
