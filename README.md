@@ -1,6 +1,6 @@
 ### Hi👋 I'm Christy Yu 
 
-- 👩‍🎓 3senior @ UCSB: Comp Sci, Stats + Data Sci
+- 👩‍🎓 senior @ UCSB: Comp Sci, Stats + Data Sci
 - 💻 SWE intern @ Lorentz Solution
 - 🌱 currently learning web dev and UI/UX design
 - 📫 christyyu@ucsb.edu
