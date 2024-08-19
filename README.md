@@ -5,4 +5,4 @@
 - 🌱 currently learning web dev and UI/UX design
 - 📫 christyyu@ucsb.edu
 - ✨ Pronouns: she/her/hers
-- 🎨 Fun fact: I do art!!! [Check out my ig!](https://www.instagram.com/qwistaycat)
+- 🎨 Fun fact: I do design & art!!!
