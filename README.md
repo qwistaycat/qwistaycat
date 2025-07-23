@@ -6,4 +6,5 @@
 - 🌱 currently learning web dev and UI/UX design
 - 📫 christyyu2003@gmail.com
 - ✨ Pronouns: she/her/hers
-- 🎨 Fun fact: I have a cockatiel named Nugget!
+- 🦜 Fun fact: I have a cockatiel named Nugget!
+- 🎨 I make art here: [instagram](https://www.instagram.com/qwistaycat/)
