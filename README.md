@@ -4,7 +4,7 @@
 - 🔗 christyyu.me
 - 📱 UIUX Design Intern @ Dawdle app
 - 👩🏻‍💻 Prev SWE intern @ Lorentz Solution
-- 🌱 currently learning web dev and UI/UX design
+- 🌱 currently learning interaction design, mobile dev
 - 📫 christyyu2003@gmail.com
 - ✨ Pronouns: she/her/hers
 - 🦜 Fun fact: I have a cockatiel named Nugget!
