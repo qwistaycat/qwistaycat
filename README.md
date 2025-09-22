@@ -1,6 +1,6 @@
 ### Hi👋 I'm Christy Yu 
 
-- 👩‍🎓 Masters in HCI @ Carnegie Mellon University 2026 | New grad CS + Stats + DS @ UC Santa Barbara 2025
+- 👩‍🎓 Masters in HCI @ Carnegie Mellon University 2026 | CS + Stats + DS @ UC Santa Barbara 2025
 - 🔗 christyyu.me
 - 📱 UIUX Designer @ Dawdle app
 - 👩🏻‍💻 Design & SWE
