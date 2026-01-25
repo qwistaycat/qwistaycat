@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Masters in HCI @ Carnegie Mellon University 2026 | CS + Stats + DS @ UC Santa Barbara 2025
 - 🔗 christyyu.me
-- 📱 UIUX Designer @ Dawdle app
+- 📱 UIUX Product Designer @ PLUS tutoring
 - 👩🏻‍💻 Design & SWE
 - 🌱 currently learning interaction design, product design, webdev
 - 📫 christyyu2003@gmail.com
