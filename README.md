@@ -4,7 +4,7 @@
 - 🔗 christyyu.me
 - 📱 UI/UX Product Designer @ PLUS tutoring
 - 👩🏻‍💻 Design & Creative Tech
-- 🌱 currently learning designing at scale, touch designer, XR prototyping
+- 🌱 currently learning: designing at scale, touch designer, XR prototyping
 - 📫 christyyu2003@gmail.com
 - ✨ Pronouns: she/her/hers
 - 🦜 Fun fact: I have a cockatiel named Nugget!
