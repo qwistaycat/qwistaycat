@@ -2,9 +2,8 @@
 
 - 👩‍🎓 Masters in HCI @ Carnegie Mellon University 2026 | CS + Stats + DS @ UC Santa Barbara 2025
 - 🔗 christyyu.me
-- 📱 Design Engineer Inter @ Plasiv
-- 👩🏻‍💻 Design & Creative Tech
-- 🌱 currently learning: designing at scale, touch designer, XR prototyping
+- 📱 Design Engineer Intern @ Plasiv
+- 🌱 currently learning: building design systems for scale & touch designer
 - 📫 christyyu2003@gmail.com
 - ✨ Pronouns: she/her/hers
 - 🦜 Fun fact: I have a cockatiel named Nugget!
