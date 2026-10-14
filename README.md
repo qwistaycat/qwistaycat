@@ -2,7 +2,7 @@
 
 - 👩‍🎓 Masters in HCI @ Carnegie Mellon University 2026 | CS + Stats + DS @ UC Santa Barbara 2025
 - 🔗 christyyu.me
-- 📱 UI/UX Product Designer @ PLUS tutoring
+- 📱 Design Engineer Inter @ Plasiv
 - 👩🏻‍💻 Design & Creative Tech
 - 🌱 currently learning: designing at scale, touch designer, XR prototyping
 - 📫 christyyu2003@gmail.com
